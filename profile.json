@@ -1,0 +1,29 @@
+{
+  "name": "Michael",
+  "avatar": 4,
+  "exercises": {
+    "math": {
+      "level": 5,
+      "score": 325,
+      "correct_in_row": 0,
+      "wrong_in_row": 1
+    },
+    "memory": {
+      "level": 5,
+      "score": 380,
+      "correct_in_row": 0,
+      "successful_rounds": 0,
+      "failed_rounds_in_row": 1
+    },
+    "attention": {
+      "level": 1,
+      "score": 0,
+      "correct_in_row": 0
+    },
+    "logic": {
+      "level": 1,
+      "score": 0,
+      "correct_in_row": 0
+    }
+  }
+}
