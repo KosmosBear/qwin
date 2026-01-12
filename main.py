@@ -1,4 +1,4 @@
-# main.py
+# main.py дополнение коммента и учусь коммитить
 import tkinter as tk
 from tkinter import messagebox
 import os

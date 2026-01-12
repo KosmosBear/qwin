@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter as #учеба кооммис
 from tkinter import messagebox
 import random
 import time
